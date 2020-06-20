@@ -1,9 +1,9 @@
 [
   {
     "model": "Toyota",
-    "marka": "Camry",
-    "deposit": 50000,
-    "photoUrl": "https://cutt.ly/aua6ZNu",
+    "marka": "Camry 70",
+    "deposit": 80000,
+    "photoUrl": "https://rentacars.kz/CARS/4.png",
     "price": {
       "1day": 30000,
       "10day": 25000,
@@ -11,35 +11,287 @@
       "30day": 15000
     },
     "transmission": "auto",
-    "volume": 2.5
+    "volume": 2.5,
+    "engine": "oil",
+    "seats": 5,
+
+    "air_conditioning": "Yes",
+    "consumption": 13,
+    "trunk": 493,
+    "new": true,
+    "special": false,
+    "class": "Biznes"
+  },
+  {
+    "model": "Hyudai",
+    "marka": "Accent NEW",
+    "deposit": 40000,
+    "photoUrl": "https://rentacars.kz/%D1%85%D1%8E%D0%BD%D0%B4%D0%B0%D0%B9%20%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82%202018.png",
+    "price": {
+      "1day": 20000,
+      "10day": 17500,
+      "20day": 15000,
+      "30day": 12000
+    },
+    "transmission": "auto",
+    "volume": 1.6,
+    "engine": "oil",
+    "seats": 5,
+    "air_conditioning": "Yes",
+    "consumption": 8,
+    "trunk": 480,
+    "new": true,
+    "special": true,
+    "class": "Econom"
   },
   {
     "model": "Toyota",
-    "marka": "Camry",
-    "deposit": 50000,
-    "photoUrl": "https://cutt.ly/aua6ZNu",
+    "marka": "Land Cruiser 200 Exclusive",
+    "deposit": 100000,
+    "photoUrl": "https://t1-cms-ru.images.toyota-europe.com/toyotaone/ruru/854x480_renewed-lc-200_tcm-3020-1763464.jpg",
     "price": {
-      "1day": 30000,
-      "10day": 25000,
-      "20day": 20000,
-      "30day": 15000
+      "1day": 70000,
+      "10day": 60000,
+      "20day": 50000,
+      "30day": 40000
     },
     "transmission": "auto",
-    "volume": 2.5
+    "volume": 4.6,
+    "engine": "oil",
+    "seats": 7,
+    "air_conditioning": "Yes",
+    "consumption": 16,
+    "trunk": 900,
+    "new": false,
+    "special": false,
+    "class": "Offroad"
   },
   {
     "model": "Toyota",
-    "marka": "Camry",
-    "deposit": 50000,
-    "photoUrl": "https://cutt.ly/aua6ZNu",
+    "marka": "Camry 55",
+    "deposit": 60000,
+    "photoUrl": "https://t1-cms-ru.images.toyota-europe.com/toyotaone/ruru/854x480_renewed-lc-200_tcm-3020-1763464.jpg",
     "price": {
-      "1day": 30000,
-      "10day": 25000,
-      "20day": 20000,
+      "1day": 25000,
+      "10day": 21000,
+      "20day": 18000,
       "30day": 15000
     },
     "transmission": "auto",
-    "volume": 2.5
-  }
+    "volume": 2.5,
+    "engine": "oil",
+    "seats": 5,
+    "air_conditioning": "Yes",
+    "consumption": 10,
+    "trunk": 500,
+    "new": false,
+    "special": false,
+    "class": "Biznes"
+  },
+  {
+    "model": "Hyudai",
+    "marka": "Accent",
+    "deposit": 30000,
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiH3QVRklbDIQ_a2O4GiLNl3JS_3rsSxhCUOaKJpkm7AuI590x&usqp=CAU",
+    "price": {
+      "1day": 13000,
+      "10day": 12000,
+      "20day": 10000,
+      "30day": 8000
+    },
+    "transmission": "auto",
+    "volume": 1.6,
+    "engine": "oil",
+    "seats": 5,
+    "air_conditioning": "Yes",
+    "consumption": 8,
+    "trunk": 450,
+    "new": false,
+    "special": true,
+    "class": "Econom"
+  },
+  {
+    "model": "Chevrolet",
+    "marka": "Camaro",
+    "deposit": 100000,
+    "photoUrl": "https://s.auto.drom.ru/i24204/c/photos/fullsize/chevrolet/camaro/chevrolet_camaro_670885.jpg",
+    "price": {
+      "1day": 60000,
+      "10day": 53000,
+      "20day": 45000,
+      "30day": 37000
+    },
+    "transmission": "auto",
+    "volume": 3.6,
+    "engine": "oil",
+    "seats": 4,
+    "air_conditioning": "Yes",
+    "consumption": 14,
+    "trunk": 300,
+    "class": "Premium"
+  },
+  {
+    "model": "Toyota",
+    "marka": "Camry 40",
+    "deposit": 50000,
+    "photoUrl": "https://avtoexperts.ru/wp-content/uploads/2018/09/camry-40-7.jpg",
+    "price": {
+      "1day": 36000,
+      "10day": 30000,
+      "20day": 25000,
+      "30day": 20000
+    },
+    "transmission": "auto",
+    "volume": 3.5,
+    "engine": "oil",
+    "seats": 5,
+    "air_conditioning": "Yes",
+    "consumption": 14,
+    "trunk": 500,
+    "class": "Middle"
+  },
+  {
+    "model": "Lexus",
+    "marka": "NX300 Hybrid",
+    "deposit": 80000,
+    "photoUrl": "https://i.ytimg.com/vi/BAlGFhPy7AE/maxresdefault.jpg",
+    "price": {
+      "1day": 35000,
+      "10day": 3000,
+      "20day": 26000,
+      "30day": 22000
+    },
+    "transmission": "auto",
+    "volume": 2.5,
+    "engine": "hybrid-oil",
+    "seats": 5,
+    "air_conditioning": "Yes",
+    "consumption": 6,
+    "trunk": 600,
+    "class": "Crossover"
+  },
+  {
+    "model": "Hyudai",
+    "marka": "Santa Fe",
+    "deposit": 45000,
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpKuDskpCURYYlHlj7Z9e8sKmhGK1DbwGdMg5Jl96BNrJNj5PZ&usqp=CAU",
+    "price": {
+      "1day": 25000,
+      "10day": 20000,
+      "20day": 22000,
+      "30day": 16000
+    },
+    "transmission": "auto",
+    "volume": 2.4,
+    "engine": "oil",
+    "seats": 5,
+    "air_conditioning": "Yes",
+    "consumption": 11,
+    "trunk": 600,
+    "class": "Crossover"
+  },
+  {
+    "model": "Toyota",
+    "marka": "Fortuner",
+    "deposit": 45000,
+    "photoUrl": "https://t1-cms-ru.images.toyota-europe.com/toyotaone/ruru/exterior1-mob_tcm-3020-1238751.jpg",
+    "price": {
+      "1day": 26000,
+      "10day": 23000,
+      "20day": 20000,
+      "30day": 14000
+    },
+    "transmission": "auto",
+    "volume": 2.7,
+    "engine": "oil",
+    "seats": 7,
+    "air_conditioning": "Yes",
+    "consumption": 11,
+    "trunk": 620,
+    "class": "Offroad"
+  },
+  {
+    "model": "Lexus",
+    "marka": "GS 250 F sport",
+    "deposit": 80000,
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2TCXCU0WdlTfgsH9xvQuN0I9k9IykZ8pSKUSRpCXgG5O8XJp5&usqp=CAU",
+    "price": {
+      "1day": 26000,
+      "10day": 23000,
+      "20day": 20000,
+      "30day": 14000
+    },
+    "transmission": "auto",
+    "volume": 2.7,
+    "engine": "oil",
+    "seats": 7,
+    "air_conditioning": "Yes",
+    "consumption": 11,
+    "trunk": 620,
+    "special": true,
+    "class": "Premium"
+  },
+  {
+    "model": "Mercedes",
+    "marka": "E63 AMG",
+    "deposit": 80000,
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6Ooz5Gkzz0JOzRM3_pAGzS7qafwd3KUeg-dTuysgPDkjzgAQ3&usqp=CAU",
+    "price": {
+      "1day": 30000,
+      "10day": 25000,
+      "20day": 22000,
+      "30day": 20000
+    },
+    "transmission": "auto",
+    "volume": 5.5,
+    "engine": "oil",
+    "seats": 5,
+    "air_conditioning": "Yes",
+    "consumption": 14,
+    "trunk": 450,
+    "new": true,
+    "class": "Biznes"
+  },
+  {
+    "model": "Lexus",
+    "marka": "LX470",
+    "deposit": 50000,
+    "photoUrl": "https://pokatim.ru/uploads/posts/2019-07/1564470302_yschvosch.jpg",
+    "price": {
+      "1day": 26000,
+      "10day": 23000,
+      "20day": 20000,
+      "30day": 14000
+    },
+    "transmission": "auto",
+    "volume": 4.7,
+    "engine": "gazoline-oil",
+    "seats": 7,
+    "air_conditioning": "Yes",
+    "consumption": 16,
+    "trunk": 900,
+    "class": "Offroad"
+  },
+  {
+    "model": "Mitsubishi",
+    "marka": "ASX",
+    "deposit": 50000,
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-nG-_l5kecvX04J8Mj_KA_eeft0YJm2bOlAtczmz53fpuVbEa&usqp=CAU",
+    "price": {
+      "1day": 17000,
+      "10day": 15000,
+      "20day": 14000,
+      "30day": 12000
+    },
+    "transmission": "auto",
+    "volume": 2.4,
+    "engine": "oil",
+    "seats": 5,
+    "air_conditioning": "Yes",
+    "consumption": 10,
+    "trunk": 550,
+    "class": "Crossover"
+  },
+
 ]
 
